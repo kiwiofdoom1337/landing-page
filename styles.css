@@ -33,13 +33,21 @@ button {
   border-radius: 6px;
 }
 
-.content,
-.info,
-.quote,
-.popup {
-  flex: 1;
+.content {
+  height: 475px;
 }
 
+.info {
+  height: 500px;
+}
+
+.quote {
+  height: 430px;
+}
+
+.popup {
+  height: 370px;
+}
 .dark-bg {
   background-color: #1f2937;
 }
